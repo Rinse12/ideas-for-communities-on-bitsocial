@@ -3,7 +3,7 @@
 > A live mirror of a heavily moderated subreddit, where everything Reddit removes is the front page.
 
 **Kind:** uncensorable
-**Effort:** S once [pkc_community_mirroring_subreddit](../../pkc_community_mirroring_subreddit) exists
+**Effort:** S once pkc_community_mirroring_subreddit (not on GitHub yet) exists
 **Needs:** a Redlib instance or Reddit's `.json` endpoints
 
 ## How it works
@@ -25,5 +25,5 @@ Any heavily moderated subreddit with a lot of controversy. One community per sub
 
 ## Builds on
 
-- [pkc_community_mirroring_subreddit](../../pkc_community_mirroring_subreddit), which does all the work
-- A custom page sort (see [active-page-sort](../../active-page-sort) for the pattern)
+- pkc_community_mirroring_subreddit (not on GitHub yet), which does all the work
+- A custom page sort (see [active-page-sort](https://github.com/pkcprotocol/active-page-sort) for the pattern)

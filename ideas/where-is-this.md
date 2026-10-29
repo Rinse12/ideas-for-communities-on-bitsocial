@@ -24,7 +24,7 @@ Fully bot-run: geotagged photos from Wikimedia Commons (e.g. `Category:Quality i
 
 ## Builds on
 
-- [onlycats-poster](../../onlycats-poster) for the Commons pool, scheduling and crediting
+- onlycats-poster (not on GitHub yet) for the Commons pool, scheduling and crediting
 - Nominatim for geocoding
 
 ## Open questions

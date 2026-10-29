@@ -14,7 +14,7 @@
 
 ## The unique part
 
-The [image classifier bot](../../image-classifier-bitsocial-moderator-bot) turned around: instead of "only cats", it's "only humans". Process flair gives honest artists a way to prove it, and over time builds a reputation that detectors can't.
+The [image classifier bot](https://github.com/bitsocialnet/image-classifier-bitsocial-moderator-bot) turned around: instead of "only cats", it's "only humans". Process flair gives honest artists a way to prove it, and over time builds a reputation that detectors can't.
 
 ## Seed bot
 

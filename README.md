@@ -7,8 +7,8 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 ## What you can build with
 
 - **Custom challenges.** Every community decides what a post must pass before it's accepted, and you can write your own challenge with any logic. The challenge exchange is **private between the user and the community node**, so a challenge can collect a secret answer (a guess, a vote, a solution) that never appears publicly. Several games below rely on that.
-- **Bots.** A poster bot keeps a new community from starting empty, and a moderation bot can check each post in the mod queue. [onlycats-poster](../onlycats-poster) is a full example: it posts a licensed cat photo every few hours, and an image classifier approves only cats.
-- **Custom page sorts.** A community can rank its posts with its own `score` function ([active-page-sort](../active-page-sort) is an example).
+- **Bots.** A poster bot keeps a new community from starting empty, and a moderation bot can check each post in the mod queue. onlycats-poster (not on GitHub yet) is a full example: it posts a licensed cat photo every few hours, and an image classifier approves only cats.
+- **Custom page sorts.** A community can rank its posts with its own `score` function ([active-page-sort](https://github.com/pkcprotocol/active-page-sort) is an example).
 - **Media by link.** The protocol carries text, and media goes in as links (catbox, imgur and the like accept uploads from scripts).
 - **Ownership.** A community is a key, and its `.bso` / `.eth` name can be transferred on chain.
 
@@ -60,4 +60,4 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 
 Bigger tools that several communities can use:
 
-- [pkc_community_mirroring_subreddit](../pkc_community_mirroring_subreddit): mirrors subreddits onto communities, keeps removed content and records who removed it and when.
+- pkc_community_mirroring_subreddit (not on GitHub yet): mirrors subreddits onto communities, keeps removed content and records who removed it and when.

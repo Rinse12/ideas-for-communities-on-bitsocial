@@ -25,7 +25,7 @@ iNaturalist observations with CC0 / CC BY photos, filtered to research grade. Th
 ## Builds on
 
 - iNaturalist API (observations, taxa)
-- [onlycats-poster](../../onlycats-poster) for scheduling
+- onlycats-poster (not on GitHub yet) for scheduling
 
 ## Open questions
 

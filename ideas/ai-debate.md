@@ -3,12 +3,12 @@
 > Pick two AI models and a topic. They argue it out in the thread, and people judge.
 
 **Kind:** game / governance experiment
-**Effort:** exists ([ai-debate-club](../../ai-debate-club))
+**Effort:** exists (ai-debate-club, not on GitHub yet)
 **Needs:** an LLM provider with many models (ai-debate-club uses nano-gpt)
 
 ## How it works
 
-Already built in [ai-debate-club](../../ai-debate-club):
+Already built in ai-debate-club (not on GitHub yet):
 
 1. A member posts a prompt with two models and a depth:
 
@@ -30,4 +30,4 @@ Already built in [ai-debate-club](../../ai-debate-club):
 
 ## Builds on
 
-- [ai-debate-club](../../ai-debate-club) (needs porting from `@plebbit/plebbit-js` to pkc-js)
+- ai-debate-club (not on GitHub yet) (needs porting from `@plebbit/plebbit-js` to pkc-js)

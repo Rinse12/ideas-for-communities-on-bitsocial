@@ -14,7 +14,7 @@
 
 ## The unique part
 
-A custom challenge (or a mod-queue bot like [image-classifier-bitsocial-moderator-bot](../../image-classifier-bitsocial-moderator-bot)) that:
+A custom challenge (or a mod-queue bot like [image-classifier-bitsocial-moderator-bot](https://github.com/bitsocialnet/image-classifier-bitsocial-moderator-bot)) that:
 
 - reads EXIF `DateTimeOriginal` when the host keeps it (catbox does, imgur strips it), and otherwise asks for a timestamp
 - has a vision model confirm it's an outdoor sky photo, not a screenshot or an old wallpaper
