@@ -22,6 +22,9 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Name That Species](ideas/name-that-species.md) | iNaturalist photo, secret guesses, partial credit by genus/family | S–M |
 | [One Word Story](ideas/one-word-story.md) | Challenge accepts exactly one word, replying to the current end of the story | S |
 | [Sealed Predictions](ideas/sealed-predictions.md) | Private probability forecasts, scored when the question resolves | M |
+| [Werewolf](ideas/werewolf.md) | Roles and night actions through the private challenge, no DMs needed | M |
+| [Solvers Only](ideas/solvers-only.md) | The puzzle's answer is the challenge, so only solvers can comment | S |
+| [Prisoner's Dilemma League](ideas/prisoners-dilemma-league.md) | Daily pairings, secret cooperate/defect, public history | S |
 
 ### Better conversations
 
@@ -30,6 +33,7 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Proof of Reading](ideas/proof-of-reading.md) | Answer a question about the article before you can comment on it | M |
 | [Steelman First](ideas/steelman-first.md) | Restate the comment you're replying to, accurately, before you argue | M |
 | [ELI5, Enforced](ideas/eli5-enforced.md) | Answers above a reading-grade level are rejected | S |
+| [Assigned Sides](ideas/assigned-sides.md) | The challenge assigns your side of the debate, an LLM checks you argued it | M |
 
 ### Gated and media
 
@@ -38,6 +42,9 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Devs Only](ideas/devs-only.md) | Prove a real GitHub account by signing with its SSH key | M |
 | [Daily Sky](ideas/daily-sky.md) | One photo of today's sky, checked for date and sky, compiled into a world map | M |
 | [Human Art Only](ideas/human-art-only.md) | AI-generated images rejected, process shots earn flair | M |
+| [Invite Tree](ideas/invite-tree.md) | Members invite members, the tree is public, bans cost the inviter | M |
+| [Earn Your Post](ideas/earn-your-post.md) | Ten approved replies before your first top-level post | S |
+| [Time Capsule](ideas/time-capsule.md) | Text sealed through the challenge, hash public now, revealed on a chosen date | S–M |
 
 ### Governance experiments
 
@@ -48,6 +55,7 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Community Auction](ideas/community-auction.md) | The community's `.bso` / `.eth` name goes to the highest bidder each year | L |
 | [AI-Run Community](ideas/ai-run-community.md) | An LLM writes the rules, moderates and hears appeals | M |
 | [AI Debate](ideas/ai-debate.md) | Pick two models and a topic; they argue in the thread | exists |
+| [Jury Moderation](ideas/jury-moderation.md) | Three random members judge each report, votes secret, tally public | M |
 
 ### Uncensorable
 
@@ -55,6 +63,8 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | --- | --- | --- |
 | [Ephemeral Confessions](ideas/ephemeral-confessions.md) | Anonymous posts, removed after 24 hours | S |
 | [Removed From Reddit](ideas/removed-from-reddit.md) | Live subreddit mirror where what Reddit removed is the front page | S (on top of the mirror) |
+| [Deletionpedia](ideas/deletionpedia.md) | Wikipedia articles saved when nominated for deletion, flaired with the outcome | S–M |
+| [Delisted](ideas/delisted.md) | Lumen database removal requests to Google: who asked, which URLs, why | S–M |
 
 ## Projects
 
