@@ -25,6 +25,7 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Werewolf](ideas/werewolf.md) | Roles and night actions through the private challenge, no DMs needed | M |
 | [Solvers Only](ideas/solvers-only.md) | The puzzle's answer is the challenge, so only solvers can comment | S |
 | [Prisoner's Dilemma League](ideas/prisoners-dilemma-league.md) | Daily pairings, secret cooperate/defect, public history | S |
+| [Spot the Bot](ideas/spot-the-bot.md) | A human and an LLM answer the same questions, secret votes on which is which, reveal daily | M |
 
 ### Better conversations
 
@@ -34,6 +35,9 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Steelman First](ideas/steelman-first.md) | Restate the comment you're replying to, accurately, before you argue | M |
 | [ELI5, Enforced](ideas/eli5-enforced.md) | Answers above a reading-grade level are rejected | S |
 | [Assigned Sides](ideas/assigned-sides.md) | The challenge assigns your side of the debate, an LLM checks you argued it | M |
+| [Bridging Sort](ideas/bridging-sort.md) | Community Notes style page sort: what both camps upvoted ranks first, for science communities | M–L |
+| [Target Language Only](ideas/target-language-only.md) | A language detector in the challenge, posts in any other language bounce | S–M |
+| [The Weekly Hour](ideas/the-weekly-hour.md) | Posting allowed one hour a week, read-only the rest, so everyone's there at once | S |
 
 ### Gated and media
 
@@ -45,6 +49,8 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Invite Tree](ideas/invite-tree.md) | Members invite members, the tree is public, bans cost the inviter | M |
 | [Earn Your Post](ideas/earn-your-post.md) | Ten approved replies before your first top-level post | S |
 | [Time Capsule](ideas/time-capsule.md) | Text sealed through the challenge, hash public now, revealed on a chosen date | S–M |
+| [Nonce in Frame](ideas/nonce-in-frame.md) | The challenge gives you a code to write on paper and photograph, proving the photo is fresh and yours | M |
+| [Voice Notes](ideas/voice-notes.md) | Every post is a short audio link, a bot transcribes it underneath | S–M |
 
 ### Governance experiments
 
@@ -65,6 +71,7 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [Removed From Reddit](ideas/removed-from-reddit.md) | Live subreddit mirror where what Reddit removed is the front page | S (on top of the mirror) |
 | [Deletionpedia](ideas/deletionpedia.md) | Wikipedia articles saved when nominated for deletion, flaired with the outcome | S–M |
 | [Delisted](ideas/delisted.md) | Lumen database removal requests to Google: who asked, which URLs, why | S–M |
+| [DMCA Feed](ideas/dmca-feed.md) | Every GitHub takedown notice as a post, with counter-notices threaded under it | S |
 
 ## Projects
 
