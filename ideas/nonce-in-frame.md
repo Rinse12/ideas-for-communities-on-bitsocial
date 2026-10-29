@@ -32,7 +32,7 @@ Not for the verified stream, by definition. A bot can post the weekly theme ("th
 ## Builds on
 
 - The one-code-per-author, time-limited storage shape from [Where Is This?](where-is-this.md), issued by the node instead of collected
-- image-classifier-bitsocial-moderator-bot for fetching and classifying linked images
+- [image-classifier-bitsocial-moderator-bot](https://github.com/bitsocialnet/image-classifier-bitsocial-moderator-bot) for fetching and classifying linked images
 - A VLM that can read handwriting in a scene (any current small multimodal model does this well)
 
 ## Open questions

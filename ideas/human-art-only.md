@@ -22,7 +22,7 @@ Public-domain art from museum open-access APIs (the Met, Art Institute of Chicag
 
 ## Builds on
 
-- image-classifier-bitsocial-moderator-bot
+- [image-classifier-bitsocial-moderator-bot](https://github.com/bitsocialnet/image-classifier-bitsocial-moderator-bot)
 - An open AI-image detector model, or a commercial one (e.g. Hive)
 
 ## Open questions
