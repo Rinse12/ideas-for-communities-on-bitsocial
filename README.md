@@ -63,6 +63,18 @@ Want to run one? Open an issue saying which one you're taking, or just start it 
 | [AI Debate](ideas/ai-debate.md) | Pick two models and a topic; they argue in the thread | exists |
 | [Jury Moderation](ideas/jury-moderation.md) | Three random members judge each report, votes secret, tally public | M |
 
+### Building together
+
+Every post is a prompt to an LLM, and the community builds one thing together. All five share one bot, `builder.bso`, described in Vibe App.
+
+| Idea | The twist | Effort |
+| --- | --- | --- |
+| [Vibe App](ideas/vibe-app.md) | A web app or game: every prompt gets a live preview, the top-voted preview merges each round | L |
+| [Slow Repo](ideas/slow-repo.md) | A real repo: the top-voted feature is built by a coding agent each round and mirrored to git | L |
+| [Chaos Canon](ideas/chaos-canon.md) | A story or lore bible: every prompt goes straight into canon, in order, no votes | M |
+| [Prompt Lottery](ideas/prompt-lottery.md) | An image or song: one prompt per round drawn at random from a future Ethereum block hash | M |
+| [Seasons](ideas/seasons.md) | Build one project, ship it, then vote on the next project and its kind | M |
+
 ### Uncensorable
 
 | Idea | The twist | Effort |
